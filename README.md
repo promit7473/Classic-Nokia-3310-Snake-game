@@ -1,2 +1,2 @@
-# Classic-Nokia-3310-Snake-game
-Classic Nokia 3310 Snake game using the concept of OOP in Python
+# Classic-Nokia-3310-Snake-Game
+Classic Nokia 3310 snake game using the concept of OOP in Python
